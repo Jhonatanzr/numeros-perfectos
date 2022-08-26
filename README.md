@@ -1,5 +1,3 @@
-# numeros-perfectos
-
 # Números perfectos
 
 _Visualizar números naturales perfectos dado un rango de números._
